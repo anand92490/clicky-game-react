@@ -16,7 +16,7 @@
     },
     {
         "id": 4,
-        "image": "./assets/images/nature4.jpeg",
+        "image": "./assets/images/nature4.jpg",
         "clicked": false
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "id": 7,
-        "image": "./assets/images/nature7.jpeg",
+        "image": "./assets/images/nature7.jpg",
         "clicked": false
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "id": 12,
-        "image": "./assets/images/nature12.jpeg",
+        "image": "./assets/images/nature12.jpg",
         "clicked": false
     }
 ]
